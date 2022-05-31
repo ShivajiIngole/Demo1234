@@ -18,7 +18,7 @@ int array [] = new int [3];
 	String s1 = null;
 	System.out.println (s1.length());
 		
-		
+		System.out.println ("name");
 		
 	}
 
